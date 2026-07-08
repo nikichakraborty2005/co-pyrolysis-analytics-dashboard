@@ -1,8 +1,10 @@
 # 🔬 Co-Pyrolysis Analytics Dashboard
 
-A SQL Server and Power BI project that analyzes the catalytic co-pyrolysis of biomass and plastic waste using interactive dashboards, SQL analysis, and DAX measures to identify optimal operating conditions and visualize product yield trends.
+SQL Server and Power BI dashboard for catalytic co-pyrolysis analytics with interactive visualizations, SQL analysis, and DAX insights.
 
----
+
+![Dashboard](Dashboard/Dashboard.png)
+
 
 ## 📌 Project Overview
 
