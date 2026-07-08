@@ -30,11 +30,6 @@ The project demonstrates an end-to-end analytics workflow, including:
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
-
----
 
 ## ✨ Dashboard Features
 
