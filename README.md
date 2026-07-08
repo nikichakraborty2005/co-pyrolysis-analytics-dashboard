@@ -3,7 +3,7 @@
 SQL Server and Power BI dashboard for catalytic co-pyrolysis analytics with interactive visualizations, SQL analysis, and DAX insights.
 
 
-![Dashboard](dashboard/Dashboard.png)
+![Dashboard](Dashboard/dashboard.png)
 
 
 ## 📌 Project Overview
